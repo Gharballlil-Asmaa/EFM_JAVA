@@ -5,7 +5,6 @@ public abstract class IR {
         return 0;
     }
 
-
     public static int getIR(double v) {
         return 0;
     }
